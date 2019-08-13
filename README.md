@@ -1,3 +1,7 @@
+# Intro to React
+
+This repository is just me working the through the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
